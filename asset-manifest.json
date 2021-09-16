@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://karthi-r-a.github.io/csb-i9non/static/css/main.2ecd7776.chunk.css",
+    "main.js": "https://karthi-r-a.github.io/csb-i9non/static/js/main.4b5ff468.chunk.js",
+    "main.js.map": "https://karthi-r-a.github.io/csb-i9non/static/js/main.4b5ff468.chunk.js.map",
+    "runtime-main.js": "https://karthi-r-a.github.io/csb-i9non/static/js/runtime-main.cf0ff46b.js",
+    "runtime-main.js.map": "https://karthi-r-a.github.io/csb-i9non/static/js/runtime-main.cf0ff46b.js.map",
+    "static/js/2.13de1ef6.chunk.js": "https://karthi-r-a.github.io/csb-i9non/static/js/2.13de1ef6.chunk.js",
+    "static/js/2.13de1ef6.chunk.js.map": "https://karthi-r-a.github.io/csb-i9non/static/js/2.13de1ef6.chunk.js.map",
+    "index.html": "https://karthi-r-a.github.io/csb-i9non/index.html",
+    "static/css/main.2ecd7776.chunk.css.map": "https://karthi-r-a.github.io/csb-i9non/static/css/main.2ecd7776.chunk.css.map",
+    "static/js/2.13de1ef6.chunk.js.LICENSE.txt": "https://karthi-r-a.github.io/csb-i9non/static/js/2.13de1ef6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf0ff46b.js",
+    "static/js/2.13de1ef6.chunk.js",
+    "static/css/main.2ecd7776.chunk.css",
+    "static/js/main.4b5ff468.chunk.js"
+  ]
+}
